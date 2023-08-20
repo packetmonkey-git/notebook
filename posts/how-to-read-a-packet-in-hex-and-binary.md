@@ -4,6 +4,7 @@ slug: how-to-read-a-packet-in-hex-and-binary
 language: fa
 date: 18 Aug 2023
 og: public/posters/reading-hex.jpg
+tags: network, basics
 ---
 
 ### چطور یک پکت خام شبکه رو راحت‌تر آنالیز کنیم؟
